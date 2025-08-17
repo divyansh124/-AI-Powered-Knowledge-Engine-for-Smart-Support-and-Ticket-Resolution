@@ -1,0 +1,4 @@
+#Ignore env files
+.env
+#ignore python virtual enviornment
+myenv/
