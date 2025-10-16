@@ -2,3 +2,5 @@
 .env
 #ignore python virtual enviornment
 myenv/
+_pycache_/
+credentials.json
